@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Atta Ur Rehman
 
-### 🚀 Full Stack Developer | AI Engineer | LLMs & RAG Specialist
+### 🚀 Full Stack Developer | AI Engineer | LLMs & RAG 
 
-I'm a passionate Full Stack Developer with 3 years of experience in building scalable web applications, AI-powered solutions, and advanced NLP systems. My expertise spans across:
+I'm a Full Stack Developer with 3 years of experience in building scalable web applications, AI-powered solutions, and advanced NLP systems. My expertise spans across:
 
 - 🖥️ **Full Stack Development** (React.js, Next.js, Django, NestJS, Node.js)
 - 📱 **Web & Mobile App Development** (React Native, Progressive Web Apps)
